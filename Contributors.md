@@ -133,6 +133,7 @@
 - Roberson Lubin(https://github.com/rlubingsu)
 - Amsalkhir Ali
 - YuriyCherniy
+- Azma Ali
 - Joseph Pilla
 - Muskan Hoondlani
 - [Ken Do](https://github.com/ken-do/)
